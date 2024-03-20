@@ -1,0 +1,18 @@
+body{
+    text-align: center;   
+}
+#counterLabel{
+    font-size: 10em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.buttons{
+    padding: 20px 20px;
+    font-size: 1.5em;
+    background-color: black;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.buttons:hover{
+    background-color: green;
+}
