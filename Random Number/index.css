@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#label{
+    font-size: 10em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mybutton{
+    padding: 15px 40px;
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+#mybutton:hover{
+    background-color: green;
+}
