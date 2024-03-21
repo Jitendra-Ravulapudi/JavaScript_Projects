@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    background-color:cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+.div{
+    background-color: aliceblue;
+    margin: auto;
+    width: 500px;
+    padding: 25px;
+    border-radius: 15px;
+    color: black;
+    
+}
